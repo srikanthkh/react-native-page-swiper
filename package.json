@@ -1,35 +1,51 @@
 {
-  "name": "react-native-page-swiper",
-  "keywords": [
-    "react",
-    "react-component",
-    "react-native",
-    "swiper",
-    "ios",
-    "android"
+  "_args": [
+    [
+      "react-native-page-swiper",
+      "/Users/Brenda/Desktop/mobile"
+    ]
   ],
-  "version": "0.1.0",
-  "description": "Page Swiper component for React Native.",
-  "main": "lib/index.js",
-  "engines": {
-    "node": ">=4"
+  "_from": "react-native-page-swiper@latest",
+  "_id": "react-native-page-swiper@0.1.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/react-native-page-swiper",
+  "_nodeVersion": "4.2.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-page-swiper-0.1.0.tgz_1459868968240_0.3108971503097564"
   },
-  "scripts": {
-    "build": "babel src -d lib -q",
-    "lint": "eslint src",
-    "prebuild": "npm run lint",
-    "prepublish": "npm run build"
+  "_npmUser": {
+    "email": "cgarvis@gmail.com",
+    "name": "cgarvis"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/fixt/react-native-page-swiper.git"
+  "_npmVersion": "3.8.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "react-native-page-swiper",
+    "raw": "react-native-page-swiper",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
   },
-  "author": "Christopher Garvis <cgarvis@gmail.com>",
-  "license": "MIT",
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-page-swiper/-/react-native-page-swiper-0.1.0.tgz",
+  "_shasum": "78aff578bbb26f4161ac976d7421c3546f91b9e2",
+  "_shrinkwrap": null,
+  "_spec": "react-native-page-swiper",
+  "_where": "/Users/Brenda/Desktop/mobile",
+  "author": {
+    "email": "cgarvis@gmail.com",
+    "name": "Christopher Garvis"
+  },
   "bugs": {
     "url": "https://github.com/fixt/react-native-page-swiper/issues"
   },
-  "homepage": "https://github.com/fixt/react-native-page-swiper#readme",
+  "dependencies": {},
+  "description": "Page Swiper component for React Native.",
   "devDependencies": {
     "babel": "^6.3.26",
     "babel-cli": "^6.4.5",
@@ -40,5 +56,45 @@
     "eslint": "^1.10.3",
     "eslint-plugin-react": "^3.16.1",
     "react-native": "0.14.2"
-  }
+  },
+  "directories": {},
+  "dist": {
+    "shasum": "78aff578bbb26f4161ac976d7421c3546f91b9e2",
+    "tarball": "https://registry.npmjs.org/react-native-page-swiper/-/react-native-page-swiper-0.1.0.tgz"
+  },
+  "engines": {
+    "node": ">=4"
+  },
+  "gitHead": "143f8d49eafb70853df6dfbf2c25ff545e9a6f79",
+  "homepage": "https://github.com/fixt/react-native-page-swiper#readme",
+  "keywords": [
+    "react",
+    "react-component",
+    "react-native",
+    "swiper",
+    "ios",
+    "android"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "maintainers": [
+    {
+      "email": "cgarvis@gmail.com",
+      "name": "cgarvis"
+    }
+  ],
+  "name": "react-native-page-swiper",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fixt/react-native-page-swiper.git"
+  },
+  "scripts": {
+    "build": "babel src -d lib -q",
+    "lint": "eslint src",
+    "prebuild": "npm run lint",
+    "prepublish": "npm run build"
+  },
+  "version": "0.1.0"
 }
