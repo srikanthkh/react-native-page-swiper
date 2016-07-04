@@ -76,7 +76,7 @@
     "android"
   ],
   "license": "MIT",
-  "main": "lib/index.js",
+  "main": "index.js",
   "maintainers": [
     {
       "email": "cgarvis@gmail.com",
